@@ -1,0 +1,7 @@
+<ul>
+    {% for item in include.collection %}
+    {% if item.post_list == true %}
+    {% include post_list.html %}
+    {% endif %}
+    {% endfor %}
+</ul>

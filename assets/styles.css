@@ -1,0 +1,15 @@
+html * {
+    font-family: 'Roboto Slab' !important;
+}
+
+p {
+    font-size: 1.25em;
+}
+
+li {
+    font-size: 1.25em;
+}
+
+.text-center {
+    text-align: center;
+}
